@@ -27,7 +27,7 @@ padding: 0;
 body {
 
 line-height: 1;letter-spacing: .09em;
-background-color: #EAEAEA;
+background-color: #ffffff;
 
 } 
 
@@ -272,7 +272,7 @@ color: #2a2a2a;}
   text-align: left;
   display:block;
   z-index: 1;
-  background-color: #F0F0F0; /* For browsers that do not support gradients */
+  background-color: #fcf9f9; /* For browsers that do not support gradients */
     /*Standard syntax} */}
 
   .Product_description ul{
@@ -344,7 +344,7 @@ color: #2a2a2a;}
   padding: 5%;
   margin-top: 2%;
   width: auto;
-  background-color: #F0F0F0;
+  background-color: #fcf9f9;
   display: none;}
 
 .taggle-box{
