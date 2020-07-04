@@ -14,10 +14,6 @@ table { border-collapse: collapse; border-spacing: 0;}
 
 /*GENERAL LAYOUT*/
 
-/* background gradients:
- (brown #301C1C, #281D1B) 
- (Navy #1E323E, #1C2028)
- (Gold #3E391E, #28261C) */
 *, *:link {
 box-sizing: border-box;
 font-family: "Calisto MT", serif;
@@ -25,7 +21,7 @@ font-family: "Calisto MT", serif;
 body {
 
 line-height: 1;letter-spacing: .09em;
-background-color: #f4fff5;
+background-color: #ffffff;
 
 } 
 
@@ -122,7 +118,7 @@ background-color: #f4fff5;
 
 /* AREA 4 */
 .wrapper_footer-main {
-background-color: #f4fff5;
+background-color: #ffffff;
 padding: 10px;
 font-size: .6em;
 text-align: center;
@@ -270,8 +266,7 @@ color: #2a2a2a;}
   text-align: left;
   display:block;
   z-index: 1;
-  
-  background-color: #fcfdfa; /* For browsers that do not support gradients */
+  background-color: #f9fcfa; /* For browsers that do not support gradients */
     /*Standard syntax} */}
 
   .Product_description ul{
@@ -343,7 +338,7 @@ color: #2a2a2a;}
   padding: 5%;
   margin-top: 2%;
   width: auto;
-  background-color: #fafcfd;
+  background-color: #f9fcfa;
   display: none;}
 
 .taggle-box{
